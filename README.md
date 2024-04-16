@@ -11,7 +11,6 @@ spatio-temporal tasks
 - opencv-python 4.5.4.58
 - pillow 9.5.0
 - numpy 1.21.6
-- 
 # Data Preparation
 Please make sure that you have sufficient storage.
 ```
