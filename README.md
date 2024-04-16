@@ -1,5 +1,8 @@
 # spatio-temporal-tasks
 spatio-temporal tasks
+
+![plot](./figs/yqy1.jpg)
+
 # Environments
 - python 3.7.10
 - pytorch 1.7.1
