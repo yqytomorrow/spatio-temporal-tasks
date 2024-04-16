@@ -33,4 +33,6 @@ python main.py --dataset shanghaitech --val_step 100 --print_interval 20 --batch
 python main.py --dataset shanghaitech/avenue/ped --sample_num 9/7/7 --checkpoint xxx.pth
 ```
 We provide the pre-trained weights for [STC](https://pan.baidu.com/s/15B0BHHKStC-od7SDNFGWmA?pwd=quzj 
-提取码：quzj), [Avenue](https://drive.google.com/file/d/17qUCgzmFt6DwE1M78GcrxtYkM1K0zser/view?usp=share_link) and [Ped2](https://drive.google.com/file/d/16qHhS8-srFcQTgo6M1266GAfVrW-RP3e/view?usp=share_link).
+extraction code：quzj), [Avenue](https://pan.baidu.com/s/1f2sygbR1qbLTDHzznKKFWA?pwd=y260 
+extraction code：y260) and [Ped2](https://pan.baidu.com/s/1AqunzApvvbevarVMeF0w3Q?pwd=wa83 
+extraction code：wa83).
