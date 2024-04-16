@@ -6,4 +6,5 @@ spatio-temporal tasks
 - torchvision 0.8.2
 - scipy 1.7.1
 - opencv-python 4.5.4.58
-- pillow 8.2.0
+- pillow 9.5.0
+- numpy 1.21.6
