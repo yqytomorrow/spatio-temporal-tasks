@@ -1,7 +1,7 @@
 # spatio-temporal-tasks
 spatio-temporal tasks
 
-![plot](./figs/yqy1.jpg)
+![plot](./figs/yqy1.pdf)
 
 # Environments
 - python 3.7.10
